@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💞 情侣关系邀请</title>
+    <!-- 以下 meta 标签用于控制 QQ 分享卡片的显示内容 -->
+    <meta itemprop="name" content="💞 想和你建立情侣关系" />
+    <meta itemprop="description" content="确认关系，开启我们的专属甜蜜空间~" />
+    <meta itemprop="image" content="https://picsum.photos/seed/yuanshen/640/640" /> <!-- 一张原神风格的图片 -->
+    <meta http-equiv="Refresh" content="0; url=https://ys.mihoyo.com/" /> <!-- 点击后自动跳转的目标链接：原神官网 -->
+</head>
+<body>
+    <div style="text-align: center; margin-top: 50px; font-family: Arial, sans-serif;">
+        <h1>💞 情侣关系邀请</h1>
+        <p>正在为你跳转至原神官方下载页面...</p>
+        <p>如果没有自动跳转，请 <a href="https://ys.mihoyo.com/" style="color: #0099ff; text-decoration: none;">点击这里</a></p>
+    </div>
+</body>
+</html>
